@@ -1,0 +1,43 @@
+h1
+{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+h5
+{
+color: aquamarine;
+text-align: center;
+text-decoration: underline;
+font-size: 16px;
+}
+
+h2
+{
+color:white;
+text-align: center;
+font-size: 42px;
+}
+
+h3
+{
+font-family: veranda;
+color: gray;
+font-size: 21px;
+text-align: center;
+}
+.center
+{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+h4
+{
+text-align: right;
+color: gray;
+font-family: monospace;
+font-size: 20px;
+}
